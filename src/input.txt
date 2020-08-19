@@ -1,0 +1,17 @@
+11 11 8
+1 4 4 v
+0 3 6 h
+3 5 7 h
+9 6 7 v
+1 9 7 h
+4 6 7 v
+4 1 7 h
+7 10 8 v
+trio
+tripod
+octagon
+unicorn
+triangle
+uniform
+octopus
+october
